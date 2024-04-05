@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "Dam di hoc",
+      "price": 200,
+      "description": "Mo ta chi tiet san pham",
+      "id": 1
+    },
+    {
+      "name": "Dam di hoc",
+      "price": 200,
+      "description": "Mo ta chi tiet san pham",
+      "id": 2
+    },
+    {
+      "name": "Dam di hoc",
+      "price": 2020000,
+      "description": "Mo ta chi tiet san pham",
+      "id": 3
+    },
+    {
+      "name": "Dam di hoc",
+      "price": 2020000,
+      "description": "Mo ta chi tiet san pham",
+      "id": 4
+    },
+    {
+      "name": "Dam di hoc",
+      "price": 2020000,
+      "description": "Mo ta chi tiet san pham",
+      "id": 7
+    },
+    {
+      "name": "Dam di hoc",
+      "price": 2020000,
+      "description": "Mo ta chi tiet san pham",
+      "id": 9
+    },
+    {
+      "name": "Áo đi học",
+      "price": 200,
+      "description": "Mo ta chi tiet san pham",
+      "id": 10
+    },
+    {
+      "name": "Áo đi học fpt",
+      "price": 250,
+      "description": "Mo ta chi tiet san pham",
+      "id": 11
+    },
+    {
+      "name": "Quần áo sinh viên",
+      "price": 600,
+      "description": "Chất lượng vải tốt",
+      "id": 12
+    },
+    {
+      "name": "Áo đi học fpt",
+      "price": 300,
+      "description": "Mo ta chi tiet san pham",
+      "id": 5
+    },
+    {
+      "name": "Quần áo sinh viên",
+      "price": 6800,
+      "description": "Chất lượng vải tốt nhất hiện tại",
+      "id": 13
+    }
+  ]
+}
